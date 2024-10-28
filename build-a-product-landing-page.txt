@@ -1,0 +1,678 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Landing Page</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,700,900" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+  </head>
+  <body>
+      <header id="header">
+        <img id="header-img" src="https://previews.dropbox.com/p/thumb/ACbbD2RGF4B-R1NsXHfWBlLdUSRmAjPi0ITH1gAQw7VLB5MeI0dn6kKO4_0UJi_uKnIdBJuCOArgNuPAL8xpsUApPV9xtsyP7F2fjCQkTusvoZCAbhms-CzvSsJCDcBGc0Dq3JBpDXlW_fBI8cru2BJvueqMjlo6TYSrsXb_x7jhRZYkr5z6rjOE6-BSDrp1JxC7TXR1ma-vOG-27X6OOMSlQcdKENNRgS7KgnGrKTUCxRK-xrYCsFnKuTqbz2yZhQbYJiU538B4WM8kwXBVGtgCuzTP_Y2cnp1-hiQoytLARKKWuQXa6wzIcG3kh4dQ8Ja7_YrmZN-waNHy9Vj1zNjK/p.png?is_prewarmed=true" alt="company-logo">
+        <div class="dropdown">
+          <span id="dropbtn" class="material-symbols-outlined">
+menu
+</span>
+        <nav id="nav-bar">
+          <a class="nav-link" href="#home">Home</a>
+          <a class="nav-link" href="#about_us">About Us</a>
+          <a class="nav-link" href="#our_products">Our Products</a>
+          <a class="nav-link" href="#production_process">Production Process</a>
+          <a class="nav-link" href="#contact">Contact</a>
+        </nav>
+        </div>      
+      </header>
+      <div id="content">
+      <section id="home">
+        <h1>All natural, sustainable, and best quality products</h1>
+        <div class="slider">
+          <img src="https://scontent.fcgk42-1.fna.fbcdn.net/v/t39.30808-6/463749901_564639209419662_3383680131877838124_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=M_RBmKYNdOEQ7kNvgF5R0Q_&_nc_zt=23&_nc_ht=scontent.fcgk42-1.fna&_nc_gid=AVk9W9IEy_wCAXk0NLuCsuF&oh=00_AYCWU_NVJZELfuKEy7DS_KPrViQo7FQLzGjjNkjrvidkkQ&oe=67197AF2" alt="briquettes"></img>
+          <img src="https://scontent.fcgk42-1.fna.fbcdn.net/v/t39.30808-6/463836356_564639212752995_4358497341709777196_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=o5PXbYQmFP4Q7kNvgGJbMEn&_nc_zt=23&_nc_ht=scontent.fcgk42-1.fna&_nc_gid=Ay-R8odZCadRyDoMWHjEFTg&oh=00_AYAaZxU6HinL4EEx8j0NQsc8BGjTxY4DIaj01hMdqqdlgg&oe=67196710" alt="fiber"></img>
+          <img src="https://scontent.fcgk42-1.fna.fbcdn.net/v/t39.30808-6/463831408_564639216086328_1589291365605196786_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-j6VffQX4P0Q7kNvgEjISoD&_nc_zt=23&_nc_ht=scontent.fcgk42-1.fna&_nc_gid=AP5SNQMpf5SbIH0ANJyGVBi&oh=00_AYDmNXxIPNyCvSf905JzXy30PTAASi8ZAe57y_WRQPkEBg&oe=671A72FB" alt="cocopeat"></img>
+        </div>
+    </section>
+    <section id="about_us">
+        <img class="image" src="https://scontent.fcgk42-1.fna.fbcdn.net/v/t39.30808-6/463821346_564544679429115_3082896392223432049_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Elpdj0CpyHAQ7kNvgFC6YJh&_nc_zt=23&_nc_ht=scontent.fcgk42-1.fna&_nc_gid=AUw_mbNYZ7hMf4wp7yy2OCy&oh=00_AYAN9A2cnFdoOeo7mRHNbn7IZGUAUEaGOjc5RZFko8-eOw&oe=6719743D" alt="Company-Photo"></img>
+        <div>
+        <p class="text"><span class="h2">About Us</span>We are an Indonesian company that supplies high-quality coconut derivative products for global customers. The raw materials are originated from coconut plantations in tropical
+Indonesian islands where widely known as the
+largest in the world. Currently, we focus on
+providing coconut shell charcoal briquette,
+coconut fiber, and coconut peat which the
+sources are plenty and considered as waste
+from major coconut industries but still have
+economical and environmental values.</p>
+        </div>
+    </section>
+    <section id="our_products">
+      <h2>Our Products</h2>
+      <div>
+      <div class="product" id="briquettes">
+        <img class="image" src="https://scontent.fcgk42-1.fna.fbcdn.net/v/t39.30808-6/463749901_564639209419662_3383680131877838124_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=M_RBmKYNdOEQ7kNvgF5R0Q_&_nc_zt=23&_nc_ht=scontent.fcgk42-1.fna&_nc_gid=AVk9W9IEy_wCAXk0NLuCsuF&oh=00_AYCWU_NVJZELfuKEy7DS_KPrViQo7FQLzGjjNkjrvidkkQ&oe=67197AF2" alt="briquettes"></img>
+        <p class="text"><span class="p-h2">Coconut Shell Charcoal Briquettes</span>Made of 100% natural carbonized coconut
+shell which has been known for its
+superior properties (no smells, no smoke,
+long burning time, high burning
+temperature). Suitable for Shisha/Hookah
+and Grill/Barbeque. Various shapes are
+available. Packaging can be in Master Box
+(@10 kg) or as per customer request. A
+private label is also available.</p>
+      </div>
+      <div class="product" id="coconut_fiber">
+        <img class="image" src="https://scontent.fcgk42-1.fna.fbcdn.net/v/t39.30808-6/463836356_564639212752995_4358497341709777196_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=o5PXbYQmFP4Q7kNvgGJbMEn&_nc_zt=23&_nc_ht=scontent.fcgk42-1.fna&_nc_gid=Ay-R8odZCadRyDoMWHjEFTg&oh=00_AYAaZxU6HinL4EEx8j0NQsc8BGjTxY4DIaj01hMdqqdlgg&oe=67196710" alt="fiber"></img>
+        <p class="text"><span class="p-h2">Coconut Fiber</span>Coconut fiber is a natural fiber extracted
+from the husk of mature coconut and
+used in products such as floor mats, door
+mats, brushes, and mattresses. Packed in
+a bale with plastic straps. Available supply
+for up to 100 MT per month.</p>
+      </div>
+      <div class="product" id="cocopeat">
+        <img class="image" src="https://scontent.fcgk42-1.fna.fbcdn.net/v/t39.30808-6/463831408_564639216086328_1589291365605196786_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-j6VffQX4P0Q7kNvgEjISoD&_nc_zt=23&_nc_ht=scontent.fcgk42-1.fna&_nc_gid=AP5SNQMpf5SbIH0ANJyGVBi&oh=00_AYDmNXxIPNyCvSf905JzXy30PTAASi8ZAe57y_WRQPkEBg&oe=671A72FB" alt="cocopeat"></img>
+        <p class="text"><span class="p-h2">Cocopeat</span>Coir waste from coir fiber industries is
+washed, heat-treated, screened, and
+graded before being processed into coco
+peat products which are then used for
+horticultural and agricultural applications
+and as industrial absorbent. Usually
+shipped in the form of compressed block
+@5 kg, plastic-wrapped, and packed on a
+pallet. Available in low Ec and high Ec.</p>
+      </div>
+      </div>          
+    </section>
+    <section id="production_process">
+      <h2>Production Process</h2>
+      <div>
+      <iframe id="video" width="700" height="400" frameborder="0" src="https://www.youtube.com/embed/meBd1GHC2yg?si=PmabHjEJ7KfmDYrs" loading="lazy" allowfullscreen></iframe>
+      <p>This video is a property of Business Insider <span class="source"><a id="source-video" href="https://www.youtube.com/@BusinessInsider">(source)</a></span></p>
+      </div>
+    </section>
+    <section id="contact">
+      <h2>Contact</h2>
+      <div id="c-container">
+      <div class="contact">
+        <span class="material-symbols-outlined">home</span>
+        <p class="location">Jakarta - Indonesia</p>
+      </div>
+      <div class="contact">
+        <span class="material-symbols-outlined">phone_in_talk</span>
+        <p class="phone">+6221-00000</p>
+      </div>
+      <div class="contact">
+        <span class="material-symbols-outlined">web</span>
+        <p class="web">www.xxxxx.com</p>
+      </div>
+      <form id="form" action="https://www.freecodecamp.com/email-submit">
+        <input id="email" type="email" placeholder="Enter your email address" name="email" required></input>
+        <input id="submit" type="submit"></input>
+      </form>
+      </div>
+    </section>
+      </div>
+    <footer id="footer">
+        <img id="footer-img" src="https://previews.dropbox.com/p/thumb/ACbbD2RGF4B-R1NsXHfWBlLdUSRmAjPi0ITH1gAQw7VLB5MeI0dn6kKO4_0UJi_uKnIdBJuCOArgNuPAL8xpsUApPV9xtsyP7F2fjCQkTusvoZCAbhms-CzvSsJCDcBGc0Dq3JBpDXlW_fBI8cru2BJvueqMjlo6TYSrsXb_x7jhRZYkr5z6rjOE6-BSDrp1JxC7TXR1ma-vOG-27X6OOMSlQcdKENNRgS7KgnGrKTUCxRK-xrYCsFnKuTqbz2yZhQbYJiU538B4WM8kwXBVGtgCuzTP_Y2cnp1-hiQoytLARKKWuQXa6wzIcG3kh4dQ8Ja7_YrmZN-waNHy9Vj1zNjK/p.png?is_prewarmed=true" alt="company-logo">
+      <span>Copyright 2024, PT Berkah Ekspor Nusantara</span>
+      </footer>
+    </div>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  backround-color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  color: #3F2305;
+  margin: 0;
+}
+
+#header-img, #footer-img {
+    height: 5em;
+    margin-left: 0;
+    margin-right: auto;
+  }
+  
+  #header {
+    height: 5em;
+    position: fixed;
+    top: 0;
+    display: flex;
+    width: 100%;
+    z-index: 2;
+    background: white;
+    border-bottom: 2px solid #3F2305;
+  }
+
+/* Style The Menu Button */
+
+#dropbtn {
+  position: relative;
+  display : block;
+  background: none;
+  color: #3F2305;
+  padding: 0 1em;
+  cursor: pointer;
+  font-size: 2rem;
+  margin-top: 0.75em;
+}
+
+/* The container <div> - needed to position the menu content */
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    margin-right: 6em;
+}
+
+/* Menu content (Hidden by Default) */
+
+#nav-bar {
+    display: none;
+    position: absolute;
+    background: #F4F6FF;
+    width: 12em;
+}
+
+/* Link inside the menu */
+.nav-link {
+  color: #3F2305;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  position: relative;
+}
+
+/* Change color of menu links on hover */
+.nav-link:hover {
+  background: #E4E0E1;
+}
+
+/* Show the menu on hover */
+.dropdown:hover #nav-bar {
+  display: block;
+}
+
+/* Change the background color of the menu button when the menu content is shown */
+.dropdown:hover .dropbtn {
+  background-color: #3F2305;
+}
+
+#content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#home {
+  position: relative;
+  display: flex;
+  height: 50em;
+  width: 100%;
+}
+
+#home h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  width: 95%;
+  font-size: 3rem;
+  text-transform: uppercase;
+  z-index: 1;
+  color: white;
+}
+
+/** start code for slidding image **/
+.slider {
+  position: relative;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 50em;
+  overflow: hidden;
+  }
+
+.slider img {
+  position: absolute;
+  width: 100%;
+  height: auto;
+  opacity: 0;
+  animation: fadeInOut 15s infinite ease-in-out;
+}
+
+@keyframes fadeInOut {
+  0%, 16.66% {
+    opacity: 0;
+  }
+  33.33%, 50% {
+    opacity: 1;
+  }
+  66.66%, 100% {
+    opacity: 0;
+  }
+}
+
+.slider img:nth-child(1) {
+  animation-delay: 0s;
+}
+
+.slider img:nth-child(2) {
+  animation-delay: 5s;
+}
+
+.slider img:nth-child(3) {
+  animation-delay: 10s;
+}
+/** end code for slidding image **/
+
+@media (max-width: 703px) {
+  #home {
+  height: 50vh; }
+  #home h1 {
+  font-size: 1.5rem;}
+}
+
+#about_us {
+  position: relative;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+}
+
+#about_us .image {
+  display: block;
+  position: relative;
+  max-width: 100%;
+  height: auto;  
+}
+
+#about_us .text {
+  display: block;
+  position: absolute;
+  font-size: 1rem;
+  text-align: center;
+  max-width: 55%;
+  height: auto;
+  line-height: 2;
+  padding: 4rem;
+  top: 0;
+  left: 0;
+  background: #F4F6FF;
+  outline: 2px solid #3F2305;
+  outline-offset: -3em;
+  margin: 0 auto;
+}
+
+#about_us .h2 {
+  display: block;
+  font-size: 2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-bottom: 0.5em;
+  }
+
+#our_products {
+  position: relative;
+  display: block;
+  height: auto;
+}
+
+#our_products h2 {
+  position: relative;
+  display: block;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2rem;
+  font-weight: bold;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+#our_products div {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.product {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  width: 50%;
+  height: auto;
+}
+
+.product .image {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.product .text {
+  display: block;
+  position: relative;
+  background: rgba(16, 55, 92, 0.6);
+  text-align: center;
+  padding: 2em;
+  width: 100%;
+  height: auto;
+  color: white;
+  outline: 2px solid white;
+  outline-offset: -1.5em;
+  margin: 0;
+}
+
+.p-h2 {
+  display: block;
+  position: relative;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding-bottom: 0.5em;
+}
+
+#production_process {
+  position: relative;
+  display: block;
+  place-items: center;
+  height: 75vh;
+  margin: 2em auto;
+}
+
+#production_process h2 {
+  text-align: center;
+  display: block;
+  text-transform: uppercase;
+  font-size: 2rem;
+  font-weight: bold;
+  padding-bottom: 0.5em;
+}
+
+#production_process div {
+  position: relative;
+  display: grid;
+  grid-template-rows: 60vh 5vh;
+  width: 100%;
+  height: auto;
+  place-items: center;
+}
+
+iframe {
+  max-width: 100%;
+  height: auto;
+}
+
+#production_process div p {
+  padding-top: 2%;
+}
+
+#source-video {
+  text-decoration: none;
+  color: #3F2305;
+  font-style: italic;
+}
+
+#contact {
+  position: relative;
+  display: block;
+  margin: 2em auto;
+  place-items: center;
+  max-width: 100%;
+  height: auto;
+}
+
+.contact {
+  display: flex;
+  position: relative;
+  margin-left: 3.5em;
+  padding-top: 3.5em;
+  height: auto;
+}
+
+#contact h2 {
+  text-align: center;
+  display: block;
+  text-transform: uppercase;
+  font-size: 2rem;
+  font-weight: bold;
+  padding-bottom: 0.5em;
+}
+
+#c-container {
+  position: relative;
+  display: block;
+  background: #F0F0F0;
+  border-radius: 2rem;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.contact span {
+  position: relative;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.contact p {
+  position: relative;
+  display: block;
+  margin: 0;
+  padding-left: 1em;
+}
+
+#form {
+ display: flex;
+ padding-top: 3.5em;
+ padding-bottom: 3.5em;
+ margin-left: 3.5em;
+ position: relative;
+ width: 80%;
+}
+
+#email {
+  display: block;
+  font-size: inherit;
+  line-height: 1.5rem;
+  color: inherit;
+  position: relative;
+  width: 13em;
+}
+
+#submit{
+  display: block;
+  font-size: inherit;
+  line-height: 1.5rem;
+  background: #3F2305;
+  color: #D6C0B3;
+  border-radius: 2rem;
+  position: relative;
+  width: 30%;
+  margin-left: 2em;
+  margin-right: 3.5em;
+}
+
+#footer {
+  position: relative;
+  display: flex;
+  width: 100%;
+  place-items: center;
+  border-top: 2px solid #3F2305;
+}
+
+@media (max-width: 856px) {
+  #about_us {
+    position: relative;
+    display: block;
+    height: auto;
+    background: #F4F6FF;
+    outline: 2px solid #3F2305;
+    outline-offset: -3em;
+  }
+  
+  #about_us .image {
+    display: none;
+  }
+
+  #about_us div {
+    height: auto;
+  }
+
+  #about_us .text {
+    position: relative;
+    display: block;
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    line-height: 2;
+    padding: 4em;
+    margin: 0;
+  }
+
+  #about_us .h2 {
+    display: block;
+    font-size: 2rem;
+    font-weight: bold;
+    padding-bottom: 0.5em;
+  }
+
+  #our_products {
+  position: relative;
+  display: block;
+  height: 100vh;
+  }
+
+  #our_products h2 {
+  font-size: 2rem;
+  }
+
+  #our_products div {
+  display: block;
+  padding: 0;
+}
+
+.product .image {
+  border-radius: 0;
+}
+
+#production_process {
+  position: relative;
+  display: block;
+  place-items: center;
+  height: 75vh;
+  margin-top: 2em;
+}
+
+#production_process h2 {
+  text-align: center;
+  display: block;
+  font-size: 2rem;
+  font-weight: bold;
+  padding-bottom: 0.5em;
+}
+
+#production_process div {
+  position: relative;
+  display: grid;
+  grid-template-rows: 60vh 5vh;
+  height: auto;
+  place-items: center;
+}
+
+  #contact {
+  position: relative;
+  display: block;
+  margin: 2em auto;
+  place-items: center;
+  max-width: 100%;
+  height: auto;
+}
+
+#contact h2 {
+  text-align: center;
+  display: block;
+  font-size: 2rem;
+  font-weight: bold;
+  padding-bottom: 0.5em;
+}
+
+#c-container {
+  position: relative;
+  display: block;
+  background: #F0F0F0;
+  border-radius: 2rem;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.contact {
+  position: relative;
+  display: flex;
+  margin-left: 3.5em;
+  padding-top: 3.5em;
+  height: auto;
+}
+
+.contact span {
+  position: relative;
+  display: block;
+  margin: 0;
+  padding: 0;
+  }
+  
+.contact p {
+  position: relative;
+  display: block;
+  margin: 0;
+  padding-left: 1em;
+}
+
+ #form {
+   display: flex;
+   padding-top: 3.5em;
+   padding-bottom: 3.5em;
+   margin-left: 3.5em;
+   position: relative;
+   width: 80%;
+ }
+
+ #email {
+   display: block;
+   position: relative;
+   width: 13em;
+ }
+
+ #submit {
+   display: block;
+   position: relative;
+   width: 30%;
+   margin-left: 2em;
+   margin-right: 3.5em;
+ } 
+
+}
+
+
+** end of undefined **
+
